@@ -190,7 +190,7 @@ class Dashboard extends Component<Props, LocalState> {
               href="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfB66-8K8gWrj-Mo9sVYqKSgzTwCekXkMlL0zcBdKcSDH6IFA/viewform"
               target="_blank"
             >
-              <Button bgColor={COLORS.T}>Feedback</Button>
+              <Button bgColor={COLORS.T}>Feedback Bro</Button>
             </a>
           </div>
           <div className="header">
